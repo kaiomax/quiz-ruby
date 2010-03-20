@@ -1,0 +1,24 @@
+1:
+  - pergunta: A linguagem de programacao Ruby foi criada por ?
+    alternativas:
+      - Larry Wall
+      - Guido van Rossum
+      - Yukihiro Matsumoto (Matz)
+      - Bjarne Stroustrup
+    alternativa_correta: 3
+2:
+  - pergunta: Ruby surgiu em ?
+    alternativas:
+      - 1993
+      - 1995
+      - 1985
+      - 1999
+    alternativa_correta: 2
+3:
+  - pergunta: Ruby foi influenciada por ?
+    alternativas:
+      - Pascal, Assembly e Lua
+      - Java e PHP
+      - C++ e Delphi
+      - Perl, Python e Smalltalk
+    alternativa_correta: 4	
